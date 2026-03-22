@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ユメワズライ",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-03-22T07:22:42.723726Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユメワズライ",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_ユメワズライ_スリーズブーケ.txt"
+    }
+  ]
+}
